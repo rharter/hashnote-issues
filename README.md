@@ -1,4 +1,4 @@
-hashnote-issues
+Hashnote Issues
 ===============
 
-Issue tracking for hashnote
+This is just a repo for issue tracking for Hashnote.
